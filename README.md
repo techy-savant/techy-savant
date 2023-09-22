@@ -1,5 +1,9 @@
-<img src="https://media.giphy.com/media/h8CYgLGGiBbA32rcOC/giphy.gif" alt="Image Alt Text" width=80px height=80>
-<h1 align="center">I'm Chukwuemeka [A.K.A <img src="https://img.shields.io/badge/Techy-Savant-blue">] </h1>
+
+<h1 align="center">
+	Hi 👋
+	<br>
+	I'm Chukwuemeka [A.K.A <img src="https://img.shields.io/badge/Techy-Savant-blue">] 
+</h1>
 
 
 <h3 align="center">A passionate Frontend Engineer</h3>
