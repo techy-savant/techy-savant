@@ -44,8 +44,5 @@
 
 <br>
 
-## Github 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=techy-savant&theme=dark)](https://git.io/streak-stats)
-
-Credits: [⭐TechySavant](https://github.com/techy-savant)
+Credits: [⭐TechySavant](https://github.com/techy-savant) 
