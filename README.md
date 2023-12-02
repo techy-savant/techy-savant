@@ -15,7 +15,8 @@
 ## :sassy_man:  About me
 - :school: I am a `Frontend developer`
 - 👨‍🎓 I am a `Computer Science Major`
-- :technologist: I love using Software as a solution for every `Problem`
+- 💻 I love using Software as a solution for every `Problem`
+- 🧰: I `build` products people love
 - :thinking: I’m currently open for:  `a Frontend Developer role`,
 - :nerd_face: Always `learning new things`
 
