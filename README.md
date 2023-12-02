@@ -5,11 +5,10 @@
 	I'm Chukwuemeka [A.K.A <img src="https://img.shields.io/badge/Techy-Savant-blue">] 
 </h1>
 
-
-<h3 align="center">A passionate Frontend Engineer</h3>
-
- <img align="center" alt="odizee coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG45YWo1MzFxOHUwZWxjanltc21pOWpwMGFqY2E5Yjd5dWlhcDRmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"></img>
-<br>
+<h1 align="center">
+	  Frontend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</h1>
+ 
 
 
 
