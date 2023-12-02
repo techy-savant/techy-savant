@@ -2,11 +2,11 @@
 <h1 align="center">
 	Hi 👋
 	<br>
-	I'm Chukwuemeka [A.K.A <img src="https://img.shields.io/badge/Techy-Savant-blue">] 
+	I'm Chukwuemeka Ogbanu[a.k.a <img src="https://img.shields.io/badge/Techy-Savant-blue">] 
 </h1>
 
 <h1 align="center">
-	  Frontend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+	  A Frontend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h1>
  
 
