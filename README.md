@@ -2,7 +2,7 @@
 <h1 align="center">
 	Hi 👋
 	<br>
-	I'm Chukwuemeka Ogbanu[a.k.a <img src="https://img.shields.io/badge/Techy-Savant-blue">] 
+	I'm Favour Chukwuemeka Ogbanu[<img src="https://img.shields.io/badge/Techy-Savant-blue">] 
 </h1>
 
 <h1 align="center">
