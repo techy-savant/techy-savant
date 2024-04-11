@@ -1,38 +1,38 @@
+<div align="center">
+	<h1>Favour Chukwuemeka Ogbanu[<img src="https://img.shields.io/badge/Techy-Savant-blue">] <h1/>
+	<p>A Frontend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <p/> 
+	  
+</div>
 
-<h1 align="center">
-	Hi 👋
-	<br>
-	I'm Favour Chukwuemeka Ogbanu[<img src="https://img.shields.io/badge/Techy-Savant-blue">] 
-</h1>
-
-<h1 align="center">
-	  A Frontend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</h1>
+<br/>
  
 
 
-
-## :sassy_man:  About me
-- :school: I am a `Frontend developer`
-- 👨‍🎓 I am a `Computer Science Major`
-- 💻 I love using Software as a solution for every `Problem`
-- 🧰: I `build` products people love
-- :thinking: I’m currently open for:  `a Frontend Developer role`,
-- :nerd_face: Always `learning new things`
-
+<h2 align="start">
+	About me :
+</h2>
+  
+- 💻 I am a `Frontend Software Engineer`
+- 👨🏽‍💻 All of my main projects are live at [coming-soon]()
+- 📫 How to reach me **ogbanufavour@gmail.com**
 
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
-<p align="center">
-	<a href="mailto:ogbanufavour@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://twitter.com/Chukwuemeka_OGB"><img src="https://img.shields.io/badge/Twitter-1D9BF0?logo=twitter&logoColor=fff&style=flat" alt="Twitter"/></a>
-	<a href="https://www.linkedin.com/in/chukwuemeka-ogbanu-65791b244/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat" alt="Linkedin"/></a>
-	
-</p>
+<h2 align="start">
+	 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me :
+</h2>
 
-## Languages and Tools 
+<div align="center" >
+	<a href="https://www.linkedin.com/in/chukwuemeka-ogbanu-65791b244/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Linkedin" width="40px" height="40px" /></a>
+	<a href="mailto:ogbanufavour@gmail.com"><img img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40px" height="40px" /></a>
+	<a href="https://twitter.com/Chukwuemeka_OGB"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="40px" height="40px" /></a>
+	
+</div>
+
+<h2 align="start">
+	Languages and Tools  :
+</h2>
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
 ![Sass Badge](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge)
@@ -45,4 +45,4 @@
 <br>
 
 
-Credits: [⭐TechySavant](https://github.com/techy-savant) 
+
