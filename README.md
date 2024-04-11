@@ -31,8 +31,12 @@
 </div>
 
 <h2 align="start">
-	Languages and Tools  :
+	Skills and Tools  :
 </h2>
+
+<h4 align="start">
+	Languages  :
+</h4>
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
 ![Sass Badge](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge)
@@ -43,6 +47,8 @@
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)
 
 <br>
+
+
 
 
 
