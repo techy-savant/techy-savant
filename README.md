@@ -31,7 +31,7 @@
 </div>
 
 <h2 align="start">
-	Skills and Tools  :
+	My Tech Stack  :
 </h2>
 
 <h4 align="start">
