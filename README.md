@@ -13,7 +13,7 @@
 </h2>
   
 - 💻 I am a `Frontend Software Engineer`
-- 👨🏽‍💻 All of my main projects are live at [coming-soon]()
+- 👨🏽‍💻 All of my main projects are live at [techysavant.site](https://techysavant.site)
 - 📫 How to reach me **ogbanufavour@gmail.com**
 
 
