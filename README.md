@@ -1,5 +1,5 @@
 <div align="center">
-	<h1>Favour Chukwuemeka Ogbanu[<img src="https://img.shields.io/badge/Techy-Savant-blue">] <h1/>
+	<h1>Favour (Emeka) Ogbanu <img src="https://img.shields.io/badge/Techy-Savant-blue"> <h1/>
 	<p>A Frontend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <p/> 
 	  
 </div>
