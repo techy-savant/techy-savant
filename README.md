@@ -1,6 +1,6 @@
 <div align="center">
 	<h1>Favour (Emeka) Ogbanu <img src="https://img.shields.io/badge/Techy-Savant-blue"> <h1/>
-	<p> Fullstack Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <p/> 
+	<h2> Fullstack Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <h2/> 
 	  
 </div>
 
@@ -12,8 +12,8 @@
 	About me :
 </h2>
   
-- 💻 I am a `Frontend Software Engineer`
-- 🔧 I am an OpenSource Builder. When not working on my 9-5. I build OpenSource SaaS products with latest technologies.
+- 💻 I am a Fullstack Software Engineer`
+- 🔧 I am an OpenSource Builder. When not working on my 9-5. I build OpenSource SaaS products for fun.
 - 👨🏽‍💻 All of my main projects are live at [techysavant.site](https://techysavant.site)
 - 📫 How to reach me **ogbanufavour@gmail.com**
 
