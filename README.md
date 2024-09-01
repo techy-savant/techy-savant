@@ -13,7 +13,7 @@
 </h2>
   
 - 💻 I am a Fullstack Software Engineer`
-- 🔧 I am an OpenSource Builder. When not working on my 9-5. I build OpenSource SaaS products for fun.
+- 🧰I am an open-source developer who enjoys building SaaS products in my spare time.
 - 👨🏽‍💻 All of my main projects are live at [techysavant.site](https://techysavant.site)
 - 📫 How to reach me **ogbanufavour@gmail.com**
 
