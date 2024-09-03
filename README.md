@@ -12,7 +12,7 @@
 	About me :
 </h2>
   
-- 💻 I am a Fullstack Software Engineer
+- 💻 I am a `Fullstack Software Engineer` .
 - 🧰 I am passionate about Open-source development and enjoy building SaaS products in my spare time.
 - 👨🏽‍💻 All of my main projects are live at [techysavant.site](https://techysavant.site)
 - 📫 How to reach me **ogbanufavour@gmail.com**
