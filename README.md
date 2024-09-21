@@ -13,7 +13,7 @@
 </h2>
   
 - 💻 I am a `Fullstack Software Engineer` .
-- 🧰 I am passionate about Open-source development and solving problems with software.
+- 🧰 I am passionate about Open-source development and solving problems using software.
 - 👨🏽‍💻 All of my main projects are live at [techysavant.site](https://techysavant.site)
 - 📫 How to reach me **ogbanufavour@gmail.com**
 
